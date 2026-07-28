@@ -1,0 +1,28 @@
+{
+  "name": "emoji",
+  "version": "1.0.0",
+  "description": "表情包标签化工程",
+  "main": "index.html",
+  "scripts": {
+    "copy-images": "rm -rf dist && mkdir -p dist && find output -name '*.avif' -exec cp {} dist/ \\; && echo 'All images copied to dist directory' && ls dist | wc -l | xargs echo 'Total files copied:'",
+    "build": "npm run copy-images",
+    "clean": "rm -rf dist && echo 'Dist directory cleaned'"
+  },
+  "keywords": [
+    "emoji",
+    "emoticons",
+    "images",
+    "bilibili",
+    "douyin",
+    "weibo",
+    "zhihu",
+    "tieba",
+    "xiaohongshu"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "."
+  }
+}
