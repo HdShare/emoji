@@ -30,6 +30,7 @@ class EmojiCompressor:
             'zhihu': 'zhihu',
             'xiaohongshu': 'xiaohongshu',
             'douyin': 'douyin',
+            'qq': 'qq',
             'bilibili': 'bilibili',
             'weibo': 'weibo'
         }
