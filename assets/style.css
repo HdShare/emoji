@@ -193,6 +193,9 @@ body {
 .douyin {
   background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
 }
+.qq {
+  background: linear-gradient(135deg, #1976d2 0%, #64b5f6 100%);
+}
 .bilibili {
   background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
 }

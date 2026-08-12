@@ -1984,6 +1984,1133 @@
     ]
   },
   {
+    "platform": "qq",
+    "emojis": [
+      {
+        "url": "output/qq/qq_001.avif",
+        "name": "微笑",
+        "tags": [],
+        "keywords": ["微笑"]
+      },
+      {
+        "url": "output/qq/qq_002.avif",
+        "name": "撇嘴",
+        "tags": [],
+        "keywords": ["撇嘴"]
+      },
+      {
+        "url": "output/qq/qq_003.avif",
+        "name": "色",
+        "tags": [],
+        "keywords": ["色"]
+      },
+      {
+        "url": "output/qq/qq_004.avif",
+        "name": "发呆",
+        "tags": [],
+        "keywords": ["发呆"]
+      },
+      {
+        "url": "output/qq/qq_005.avif",
+        "name": "得意",
+        "tags": [],
+        "keywords": ["得意"]
+      },
+      {
+        "url": "output/qq/qq_006.avif",
+        "name": "害羞",
+        "tags": [],
+        "keywords": ["害羞"]
+      },
+      {
+        "url": "output/qq/qq_007.avif",
+        "name": "闭嘴",
+        "tags": [],
+        "keywords": ["闭嘴"]
+      },
+      {
+        "url": "output/qq/qq_008.avif",
+        "name": "睡",
+        "tags": [],
+        "keywords": ["睡"]
+      },
+      {
+        "url": "output/qq/qq_009.avif",
+        "name": "大哭",
+        "tags": [],
+        "keywords": ["大哭"]
+      },
+      {
+        "url": "output/qq/qq_010.avif",
+        "name": "尴尬",
+        "tags": [],
+        "keywords": ["尴尬"]
+      },
+      {
+        "url": "output/qq/qq_011.avif",
+        "name": "发怒",
+        "tags": [],
+        "keywords": ["发怒"]
+      },
+      {
+        "url": "output/qq/qq_012.avif",
+        "name": "调皮",
+        "tags": [],
+        "keywords": ["调皮"]
+      },
+      {
+        "url": "output/qq/qq_013.avif",
+        "name": "呲牙",
+        "tags": [],
+        "keywords": ["呲牙"]
+      },
+      {
+        "url": "output/qq/qq_014.avif",
+        "name": "惊讶",
+        "tags": [],
+        "keywords": ["惊讶"]
+      },
+      {
+        "url": "output/qq/qq_015.avif",
+        "name": "难过",
+        "tags": [],
+        "keywords": ["难过"]
+      },
+      {
+        "url": "output/qq/qq_016.avif",
+        "name": "我方了",
+        "tags": [],
+        "keywords": ["我方了"]
+      },
+      {
+        "url": "output/qq/qq_017.avif",
+        "name": "冷汗",
+        "tags": [],
+        "keywords": ["冷汗"]
+      },
+      {
+        "url": "output/qq/qq_018.avif",
+        "name": "抓狂",
+        "tags": [],
+        "keywords": ["抓狂"]
+      },
+      {
+        "url": "output/qq/qq_019.avif",
+        "name": "吐",
+        "tags": [],
+        "keywords": ["吐"]
+      },
+      {
+        "url": "output/qq/qq_020.avif",
+        "name": "偷笑",
+        "tags": [],
+        "keywords": ["偷笑"]
+      },
+      {
+        "url": "output/qq/qq_021.avif",
+        "name": "可爱",
+        "tags": [],
+        "keywords": ["可爱"]
+      },
+      {
+        "url": "output/qq/qq_022.avif",
+        "name": "白眼",
+        "tags": [],
+        "keywords": ["白眼"]
+      },
+      {
+        "url": "output/qq/qq_023.avif",
+        "name": "傲慢",
+        "tags": [],
+        "keywords": ["傲慢"]
+      },
+      {
+        "url": "output/qq/qq_024.avif",
+        "name": "饥饿",
+        "tags": [],
+        "keywords": ["饥饿"]
+      },
+      {
+        "url": "output/qq/qq_025.avif",
+        "name": "流泪",
+        "tags": [],
+        "keywords": ["流泪"]
+      },
+      {
+        "url": "output/qq/qq_026.avif",
+        "name": "大怨种",
+        "tags": [],
+        "keywords": ["大怨种"]
+      },
+      {
+        "url": "output/qq/qq_027.avif",
+        "name": "变形",
+        "tags": [],
+        "keywords": ["变形"]
+      },
+      {
+        "url": "output/qq/qq_028.avif",
+        "name": "仔细分析",
+        "tags": [],
+        "keywords": ["仔细分析"]
+      },
+      {
+        "url": "output/qq/qq_029.avif",
+        "name": "菜汪",
+        "tags": [],
+        "keywords": ["菜汪"]
+      },
+      {
+        "url": "output/qq/qq_030.avif",
+        "name": "崇拜",
+        "tags": [],
+        "keywords": ["崇拜"]
+      },
+      {
+        "url": "output/qq/qq_031.avif",
+        "name": "比心",
+        "tags": [],
+        "keywords": ["比心"]
+      },
+      {
+        "url": "output/qq/qq_032.avif",
+        "name": "庆祝",
+        "tags": [],
+        "keywords": ["庆祝"]
+      },
+      {
+        "url": "output/qq/qq_033.avif",
+        "name": "吃糖",
+        "tags": [],
+        "keywords": ["吃糖"]
+      },
+      {
+        "url": "output/qq/qq_034.avif",
+        "name": "惊吓",
+        "tags": [],
+        "keywords": ["惊吓"]
+      },
+      {
+        "url": "output/qq/qq_035.avif",
+        "name": "坚强",
+        "tags": [],
+        "keywords": ["坚强"]
+      },
+      {
+        "url": "output/qq/qq_036.avif",
+        "name": "偷感",
+        "tags": [],
+        "keywords": ["偷感"]
+      },
+      {
+        "url": "output/qq/qq_037.avif",
+        "name": "我想开了",
+        "tags": [],
+        "keywords": ["我想开了"]
+      },
+      {
+        "url": "output/qq/qq_038.avif",
+        "name": "舔屏",
+        "tags": [],
+        "keywords": ["舔屏"]
+      },
+      {
+        "url": "output/qq/qq_039.avif",
+        "name": "打招呼",
+        "tags": [],
+        "keywords": ["打招呼"]
+      },
+      {
+        "url": "output/qq/qq_040.avif",
+        "name": "敲敲",
+        "tags": [],
+        "keywords": ["敲敲"]
+      },
+      {
+        "url": "output/qq/qq_041.avif",
+        "name": "困",
+        "tags": [],
+        "keywords": ["困"]
+      },
+      {
+        "url": "output/qq/qq_042.avif",
+        "name": "惊恐",
+        "tags": [],
+        "keywords": ["惊恐"]
+      },
+      {
+        "url": "output/qq/qq_043.avif",
+        "name": "流汗",
+        "tags": [],
+        "keywords": ["流汗"]
+      },
+      {
+        "url": "output/qq/qq_044.avif",
+        "name": "憨笑",
+        "tags": [],
+        "keywords": ["憨笑"]
+      },
+      {
+        "url": "output/qq/qq_045.avif",
+        "name": "悠闲",
+        "tags": [],
+        "keywords": ["悠闲"]
+      },
+      {
+        "url": "output/qq/qq_046.avif",
+        "name": "奋斗",
+        "tags": [],
+        "keywords": ["奋斗"]
+      },
+      {
+        "url": "output/qq/qq_047.avif",
+        "name": "咒骂",
+        "tags": [],
+        "keywords": ["咒骂"]
+      },
+      {
+        "url": "output/qq/qq_048.avif",
+        "name": "疑问",
+        "tags": [],
+        "keywords": ["疑问"]
+      },
+      {
+        "url": "output/qq/qq_049.avif",
+        "name": "笑哭",
+        "tags": [],
+        "keywords": ["笑哭"]
+      },
+      {
+        "url": "output/qq/qq_050.avif",
+        "name": "doge",
+        "tags": [],
+        "keywords": ["doge"]
+      },
+      {
+        "url": "output/qq/qq_051.avif",
+        "name": "泪奔",
+        "tags": [],
+        "keywords": ["泪奔"]
+      },
+      {
+        "url": "output/qq/qq_052.avif",
+        "name": "无奈",
+        "tags": [],
+        "keywords": ["无奈"]
+      },
+      {
+        "url": "output/qq/qq_053.avif",
+        "name": "托腮",
+        "tags": [],
+        "keywords": ["托腮"]
+      },
+      {
+        "url": "output/qq/qq_054.avif",
+        "name": "卖萌",
+        "tags": [],
+        "keywords": ["卖萌"]
+      },
+      {
+        "url": "output/qq/qq_055.avif",
+        "name": "斜眼笑",
+        "tags": [],
+        "keywords": ["斜眼笑"]
+      },
+      {
+        "url": "output/qq/qq_056.avif",
+        "name": "喷血",
+        "tags": [],
+        "keywords": ["喷血"]
+      },
+      {
+        "url": "output/qq/qq_057.avif",
+        "name": "嘘",
+        "tags": [],
+        "keywords": ["嘘"]
+      },
+      {
+        "url": "output/qq/qq_058.avif",
+        "name": "晕",
+        "tags": [],
+        "keywords": ["晕"]
+      },
+      {
+        "url": "output/qq/qq_059.avif",
+        "name": "花朵脸",
+        "tags": [],
+        "keywords": ["花朵脸"]
+      },
+      {
+        "url": "output/qq/qq_060.avif",
+        "name": "衰",
+        "tags": [],
+        "keywords": ["衰"]
+      },
+      {
+        "url": "output/qq/qq_061.avif",
+        "name": "骷髅",
+        "tags": [],
+        "keywords": ["骷髅"]
+      },
+      {
+        "url": "output/qq/qq_062.avif",
+        "name": "敲打",
+        "tags": [],
+        "keywords": ["敲打"]
+      },
+      {
+        "url": "output/qq/qq_063.avif",
+        "name": "再见",
+        "tags": [],
+        "keywords": ["再见"]
+      },
+      {
+        "url": "output/qq/qq_064.avif",
+        "name": "擦汗",
+        "tags": [],
+        "keywords": ["擦汗"]
+      },
+      {
+        "url": "output/qq/qq_065.avif",
+        "name": "抠鼻",
+        "tags": [],
+        "keywords": ["抠鼻"]
+      },
+      {
+        "url": "output/qq/qq_066.avif",
+        "name": "鼓掌",
+        "tags": [],
+        "keywords": ["鼓掌"]
+      },
+      {
+        "url": "output/qq/qq_067.avif",
+        "name": "糗大了",
+        "tags": [],
+        "keywords": ["糗大了"]
+      },
+      {
+        "url": "output/qq/qq_068.avif",
+        "name": "坏笑",
+        "tags": [],
+        "keywords": ["坏笑"]
+      },
+      {
+        "url": "output/qq/qq_069.avif",
+        "name": "左哼哼",
+        "tags": [],
+        "keywords": ["左哼哼"]
+      },
+      {
+        "url": "output/qq/qq_070.avif",
+        "name": "右哼哼",
+        "tags": [],
+        "keywords": ["右哼哼"]
+      },
+      {
+        "url": "output/qq/qq_071.avif",
+        "name": "哈欠",
+        "tags": [],
+        "keywords": ["哈欠"]
+      },
+      {
+        "url": "output/qq/qq_072.avif",
+        "name": "鄙视",
+        "tags": [],
+        "keywords": ["鄙视"]
+      },
+      {
+        "url": "output/qq/qq_073.avif",
+        "name": "委屈",
+        "tags": [],
+        "keywords": ["委屈"]
+      },
+      {
+        "url": "output/qq/qq_074.avif",
+        "name": "快哭了",
+        "tags": [],
+        "keywords": ["快哭了"]
+      },
+      {
+        "url": "output/qq/qq_075.avif",
+        "name": "阴险",
+        "tags": [],
+        "keywords": ["阴险"]
+      },
+      {
+        "url": "output/qq/qq_076.avif",
+        "name": "右亲亲",
+        "tags": [],
+        "keywords": ["右亲亲"]
+      },
+      {
+        "url": "output/qq/qq_077.avif",
+        "name": "左亲亲",
+        "tags": [],
+        "keywords": ["左亲亲"]
+      },
+      {
+        "url": "output/qq/qq_078.avif",
+        "name": "吓",
+        "tags": [],
+        "keywords": ["吓"]
+      },
+      {
+        "url": "output/qq/qq_079.avif",
+        "name": "可怜",
+        "tags": [],
+        "keywords": ["可怜"]
+      },
+      {
+        "url": "output/qq/qq_080.avif",
+        "name": "眨眼睛",
+        "tags": [],
+        "keywords": ["眨眼睛"]
+      },
+      {
+        "url": "output/qq/qq_081.avif",
+        "name": "小纠结",
+        "tags": [],
+        "keywords": ["小纠结"]
+      },
+      {
+        "url": "output/qq/qq_082.avif",
+        "name": "我最美",
+        "tags": [],
+        "keywords": ["我最美"]
+      },
+      {
+        "url": "output/qq/qq_083.avif",
+        "name": "脑阔疼",
+        "tags": [],
+        "keywords": ["脑阔疼"]
+      },
+      {
+        "url": "output/qq/qq_084.avif",
+        "name": "沧桑",
+        "tags": [],
+        "keywords": ["沧桑"]
+      },
+      {
+        "url": "output/qq/qq_085.avif",
+        "name": "捂脸",
+        "tags": [],
+        "keywords": ["捂脸"]
+      },
+      {
+        "url": "output/qq/qq_086.avif",
+        "name": "辣眼睛",
+        "tags": [],
+        "keywords": ["辣眼睛"]
+      },
+      {
+        "url": "output/qq/qq_087.avif",
+        "name": "哦哟",
+        "tags": [],
+        "keywords": ["哦哟"]
+      },
+      {
+        "url": "output/qq/qq_088.avif",
+        "name": "头秃",
+        "tags": [],
+        "keywords": ["头秃"]
+      },
+      {
+        "url": "output/qq/qq_089.avif",
+        "name": "打call",
+        "tags": [],
+        "keywords": ["打call"]
+      },
+      {
+        "url": "output/qq/qq_090.avif",
+        "name": "太阳",
+        "tags": [],
+        "keywords": ["太阳"]
+      },
+      {
+        "url": "output/qq/qq_091.avif",
+        "name": "月亮",
+        "tags": [],
+        "keywords": ["月亮"]
+      },
+      {
+        "url": "output/qq/qq_092.avif",
+        "name": "贴贴",
+        "tags": [],
+        "keywords": ["贴贴"]
+      },
+      {
+        "url": "output/qq/qq_093.avif",
+        "name": "求放过",
+        "tags": [],
+        "keywords": ["求放过"]
+      },
+      {
+        "url": "output/qq/qq_094.avif",
+        "name": "玩火",
+        "tags": [],
+        "keywords": ["玩火"]
+      },
+      {
+        "url": "output/qq/qq_095.avif",
+        "name": "蛋糕",
+        "tags": [],
+        "keywords": ["蛋糕"]
+      },
+      {
+        "url": "output/qq/qq_096.avif",
+        "name": "戳一戳",
+        "tags": [],
+        "keywords": ["戳一戳"]
+      },
+      {
+        "url": "output/qq/qq_097.avif",
+        "name": "你真棒棒",
+        "tags": [],
+        "keywords": ["你真棒棒"]
+      },
+      {
+        "url": "output/qq/qq_098.avif",
+        "name": "红包多多",
+        "tags": [],
+        "keywords": ["红包多多"]
+      },
+      {
+        "url": "output/qq/qq_099.avif",
+        "name": "篮球",
+        "tags": [],
+        "keywords": ["篮球"]
+      },
+      {
+        "url": "output/qq/qq_100.avif",
+        "name": "生气",
+        "tags": [],
+        "keywords": ["生气"]
+      },
+      {
+        "url": "output/qq/qq_101.avif",
+        "name": "续标识",
+        "tags": [],
+        "keywords": ["续标识"]
+      },
+      {
+        "url": "output/qq/qq_102.avif",
+        "name": "鞭炮",
+        "tags": [],
+        "keywords": ["鞭炮"]
+      },
+      {
+        "url": "output/qq/qq_103.avif",
+        "name": "烟花",
+        "tags": [],
+        "keywords": ["烟花"]
+      },
+      {
+        "url": "output/qq/qq_104.avif",
+        "name": "酸Q",
+        "tags": [],
+        "keywords": ["酸Q"]
+      },
+      {
+        "url": "output/qq/qq_105.avif",
+        "name": "蛇年快乐",
+        "tags": [],
+        "keywords": ["蛇年快乐"]
+      },
+      {
+        "url": "output/qq/qq_106.avif",
+        "name": "问号脸",
+        "tags": [],
+        "keywords": ["问号脸"]
+      },
+      {
+        "url": "output/qq/qq_107.avif",
+        "name": "暗中观察",
+        "tags": [],
+        "keywords": ["暗中观察"]
+      },
+      {
+        "url": "output/qq/qq_108.avif",
+        "name": "emm",
+        "tags": [],
+        "keywords": ["emm"]
+      },
+      {
+        "url": "output/qq/qq_109.avif",
+        "name": "吃瓜",
+        "tags": [],
+        "keywords": ["吃瓜"]
+      },
+      {
+        "url": "output/qq/qq_110.avif",
+        "name": "呵呵哒",
+        "tags": [],
+        "keywords": ["呵呵哒"]
+      },
+      {
+        "url": "output/qq/qq_111.avif",
+        "name": "汪汪",
+        "tags": [],
+        "keywords": ["汪汪"]
+      },
+      {
+        "url": "output/qq/qq_112.avif",
+        "name": "喵喵",
+        "tags": [],
+        "keywords": ["喵喵"]
+      },
+      {
+        "url": "output/qq/qq_113.avif",
+        "name": "牛气冲天",
+        "tags": [],
+        "keywords": ["牛气冲天"]
+      },
+      {
+        "url": "output/qq/qq_114.avif",
+        "name": "无眼笑",
+        "tags": [],
+        "keywords": ["无眼笑"]
+      },
+      {
+        "url": "output/qq/qq_115.avif",
+        "name": "敬礼",
+        "tags": [],
+        "keywords": ["敬礼"]
+      },
+      {
+        "url": "output/qq/qq_116.avif",
+        "name": "狂笑",
+        "tags": [],
+        "keywords": ["狂笑"]
+      },
+      {
+        "url": "output/qq/qq_117.avif",
+        "name": "面无表情",
+        "tags": [],
+        "keywords": ["面无表情"]
+      },
+      {
+        "url": "output/qq/qq_118.avif",
+        "name": "摸鱼",
+        "tags": [],
+        "keywords": ["摸鱼"]
+      },
+      {
+        "url": "output/qq/qq_119.avif",
+        "name": "摸锦鲤",
+        "tags": [],
+        "keywords": ["摸锦鲤"]
+      },
+      {
+        "url": "output/qq/qq_120.avif",
+        "name": "魔鬼笑",
+        "tags": [],
+        "keywords": ["魔鬼笑"]
+      },
+      {
+        "url": "output/qq/qq_121.avif",
+        "name": "哦",
+        "tags": [],
+        "keywords": ["哦"]
+      },
+      {
+        "url": "output/qq/qq_122.avif",
+        "name": "睁眼",
+        "tags": [],
+        "keywords": ["睁眼"]
+      },
+      {
+        "url": "output/qq/qq_123.avif",
+        "name": "期待",
+        "tags": [],
+        "keywords": ["期待"]
+      },
+      {
+        "url": "output/qq/qq_124.avif",
+        "name": "拜谢",
+        "tags": [],
+        "keywords": ["拜谢"]
+      },
+      {
+        "url": "output/qq/qq_125.avif",
+        "name": "元宝",
+        "tags": [],
+        "keywords": ["元宝"]
+      },
+      {
+        "url": "output/qq/qq_126.avif",
+        "name": "牛啊",
+        "tags": [],
+        "keywords": ["牛啊"]
+      },
+      {
+        "url": "output/qq/qq_127.avif",
+        "name": "胖三斤",
+        "tags": [],
+        "keywords": ["胖三斤"]
+      },
+      {
+        "url": "output/qq/qq_128.avif",
+        "name": "嫌弃",
+        "tags": [],
+        "keywords": ["嫌弃"]
+      },
+      {
+        "url": "output/qq/qq_129.avif",
+        "name": "给你一拳",
+        "tags": [],
+        "keywords": ["给你一拳"]
+      },
+      {
+        "url": "output/qq/qq_130.avif",
+        "name": "干饭",
+        "tags": [],
+        "keywords": ["干饭"]
+      },
+      {
+        "url": "output/qq/qq_131.avif",
+        "name": "不是吧",
+        "tags": [],
+        "keywords": ["不是吧"]
+      },
+      {
+        "url": "output/qq/qq_132.avif",
+        "name": "你懂的",
+        "tags": [],
+        "keywords": ["你懂的"]
+      },
+      {
+        "url": "output/qq/qq_133.avif",
+        "name": "心动",
+        "tags": [],
+        "keywords": ["心动"]
+      },
+      {
+        "url": "output/qq/qq_134.avif",
+        "name": "对的对的",
+        "tags": [],
+        "keywords": ["对的对的"]
+      },
+      {
+        "url": "output/qq/qq_135.avif",
+        "name": "不对不对",
+        "tags": [],
+        "keywords": ["不对不对"]
+      },
+      {
+        "url": "output/qq/qq_136.avif",
+        "name": "举牌牌",
+        "tags": [],
+        "keywords": ["举牌牌"]
+      },
+      {
+        "url": "output/qq/qq_137.avif",
+        "name": "豹富",
+        "tags": [],
+        "keywords": ["豹富"]
+      },
+      {
+        "url": "output/qq/qq_138.avif",
+        "name": "拜托",
+        "tags": [],
+        "keywords": ["拜托"]
+      },
+      {
+        "url": "output/qq/qq_139.avif",
+        "name": "耶",
+        "tags": [],
+        "keywords": ["耶"]
+      },
+      {
+        "url": "output/qq/qq_140.avif",
+        "name": "666",
+        "tags": [],
+        "keywords": ["666"]
+      },
+      {
+        "url": "output/qq/qq_141.avif",
+        "name": "尊嘟假嘟",
+        "tags": [],
+        "keywords": ["尊嘟假嘟"]
+      },
+      {
+        "url": "output/qq/qq_142.avif",
+        "name": "咦",
+        "tags": [],
+        "keywords": ["咦"]
+      },
+      {
+        "url": "output/qq/qq_143.avif",
+        "name": "裂开",
+        "tags": [],
+        "keywords": ["裂开"]
+      },
+      {
+        "url": "output/qq/qq_144.avif",
+        "name": "收到",
+        "tags": [],
+        "keywords": ["收到"]
+      },
+      {
+        "url": "output/qq/qq_145.avif",
+        "name": "虎虎生威",
+        "tags": [],
+        "keywords": ["虎虎生威"]
+      },
+      {
+        "url": "output/qq/qq_146.avif",
+        "name": "大展宏兔",
+        "tags": [],
+        "keywords": ["大展宏兔"]
+      },
+      {
+        "url": "output/qq/qq_147.avif",
+        "name": "马到成功",
+        "tags": [],
+        "keywords": ["马到成功"]
+      },
+      {
+        "url": "output/qq/qq_148.avif",
+        "name": "右拜年",
+        "tags": [],
+        "keywords": ["右拜年"]
+      },
+      {
+        "url": "output/qq/qq_149.avif",
+        "name": "左拜年",
+        "tags": [],
+        "keywords": ["左拜年"]
+      },
+      {
+        "url": "output/qq/qq_150.avif",
+        "name": "拥抱",
+        "tags": [],
+        "keywords": ["拥抱"]
+      },
+      {
+        "url": "output/qq/qq_151.avif",
+        "name": "爱心",
+        "tags": [],
+        "keywords": ["爱心"]
+      },
+      {
+        "url": "output/qq/qq_152.avif",
+        "name": "玫瑰",
+        "tags": [],
+        "keywords": ["玫瑰"]
+      },
+      {
+        "url": "output/qq/qq_153.avif",
+        "name": "凋谢",
+        "tags": [],
+        "keywords": ["凋谢"]
+      },
+      {
+        "url": "output/qq/qq_154.avif",
+        "name": "幽灵",
+        "tags": [],
+        "keywords": ["幽灵"]
+      },
+      {
+        "url": "output/qq/qq_155.avif",
+        "name": "爆筋",
+        "tags": [],
+        "keywords": ["爆筋"]
+      },
+      {
+        "url": "output/qq/qq_156.avif",
+        "name": "示爱",
+        "tags": [],
+        "keywords": ["示爱"]
+      },
+      {
+        "url": "output/qq/qq_157.avif",
+        "name": "心碎",
+        "tags": [],
+        "keywords": ["心碎"]
+      },
+      {
+        "url": "output/qq/qq_158.avif",
+        "name": "咖啡",
+        "tags": [],
+        "keywords": ["咖啡"]
+      },
+      {
+        "url": "output/qq/qq_159.avif",
+        "name": "羊驼",
+        "tags": [],
+        "keywords": ["羊驼"]
+      },
+      {
+        "url": "output/qq/qq_160.avif",
+        "name": "赞",
+        "tags": [],
+        "keywords": ["赞"]
+      },
+      {
+        "url": "output/qq/qq_161.avif",
+        "name": "OK",
+        "tags": [],
+        "keywords": ["OK"]
+      },
+      {
+        "url": "output/qq/qq_162.avif",
+        "name": "抱拳",
+        "tags": [],
+        "keywords": ["抱拳"]
+      },
+      {
+        "url": "output/qq/qq_163.avif",
+        "name": "握手",
+        "tags": [],
+        "keywords": ["握手"]
+      },
+      {
+        "url": "output/qq/qq_164.avif",
+        "name": "勾引",
+        "tags": [],
+        "keywords": ["勾引"]
+      },
+      {
+        "url": "output/qq/qq_165.avif",
+        "name": "胜利",
+        "tags": [],
+        "keywords": ["胜利"]
+      },
+      {
+        "url": "output/qq/qq_166.avif",
+        "name": "拳头",
+        "tags": [],
+        "keywords": ["拳头"]
+      },
+      {
+        "url": "output/qq/qq_167.avif",
+        "name": "差劲",
+        "tags": [],
+        "keywords": ["差劲"]
+      },
+      {
+        "url": "output/qq/qq_168.avif",
+        "name": "踩",
+        "tags": [],
+        "keywords": ["踩"]
+      },
+      {
+        "url": "output/qq/qq_169.avif",
+        "name": "NO",
+        "tags": [],
+        "keywords": ["NO"]
+      },
+      {
+        "url": "output/qq/qq_170.avif",
+        "name": "点赞",
+        "tags": [],
+        "keywords": ["点赞"]
+      },
+      {
+        "url": "output/qq/qq_171.avif",
+        "name": "我酸了",
+        "tags": [],
+        "keywords": ["我酸了"]
+      },
+      {
+        "url": "output/qq/qq_172.avif",
+        "name": "猪头",
+        "tags": [],
+        "keywords": ["猪头"]
+      },
+      {
+        "url": "output/qq/qq_173.avif",
+        "name": "菜刀",
+        "tags": [],
+        "keywords": ["菜刀"]
+      },
+      {
+        "url": "output/qq/qq_174.avif",
+        "name": "刀",
+        "tags": [],
+        "keywords": ["刀"]
+      },
+      {
+        "url": "output/qq/qq_175.avif",
+        "name": "手枪",
+        "tags": [],
+        "keywords": ["手枪"]
+      },
+      {
+        "url": "output/qq/qq_176.avif",
+        "name": "茶",
+        "tags": [],
+        "keywords": ["茶"]
+      },
+      {
+        "url": "output/qq/qq_177.avif",
+        "name": "便便",
+        "tags": [],
+        "keywords": ["便便"]
+      },
+      {
+        "url": "output/qq/qq_178.avif",
+        "name": "喝彩",
+        "tags": [],
+        "keywords": ["喝彩"]
+      },
+      {
+        "url": "output/qq/qq_179.avif",
+        "name": "棒棒糖",
+        "tags": [],
+        "keywords": ["棒棒糖"]
+      },
+      {
+        "url": "output/qq/qq_180.avif",
+        "name": "西瓜",
+        "tags": [],
+        "keywords": ["西瓜"]
+      },
+      {
+        "url": "output/qq/qq_181.avif",
+        "name": "发抖",
+        "tags": [],
+        "keywords": ["发抖"]
+      },
+      {
+        "url": "output/qq/qq_182.avif",
+        "name": "转圈",
+        "tags": [],
+        "keywords": ["转圈"]
+      },
+      {
+        "url": "output/qq/qq_183.avif",
+        "name": "爱情",
+        "tags": [],
+        "keywords": ["爱情"]
+      },
+      {
+        "url": "output/qq/qq_184.avif",
+        "name": "跳跳",
+        "tags": [],
+        "keywords": ["跳跳"]
+      },
+      {
+        "url": "output/qq/qq_185.avif",
+        "name": "怄火",
+        "tags": [],
+        "keywords": ["怄火"]
+      },
+      {
+        "url": "output/qq/qq_186.avif",
+        "name": "挥手",
+        "tags": [],
+        "keywords": ["挥手"]
+      },
+      {
+        "url": "output/qq/qq_187.avif",
+        "name": "飞吻",
+        "tags": [],
+        "keywords": ["飞吻"]
+      }
+    ]
+  },
+  {
     "platform": "bilibili",
     "emojis": [
       {
